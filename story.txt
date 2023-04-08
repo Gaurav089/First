@@ -1,1 +1,2 @@
-Basic app
+Learning Git and GitHub
+
